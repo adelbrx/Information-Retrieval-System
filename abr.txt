@@ -1,0 +1,370 @@
+
+adj:adjective 
+adjuc:adjudant-chef
+Adjuc:adjudante-chef
+adjum:adjudant-matre
+Adjum: adjudante-matre
+alt:altitude
+am:amiral
+Am:amirale
+A.M: avant midi
+amph:amphibie
+ann:annuel
+ann.: annexe
+ant: antrieur
+app.: appartement
+appt: appartement
+apr.: aprs
+apt: appartement
+arr :arrondissement
+art:artisan
+Art:artisane
+art.: article
+artil:artilleur
+Artil:artilleuse
+artil:artillerie
+aspm:aspirant de marine
+Aspm: aspirante de marine
+atq:attaque
+auj.: aujourdhui
+aut:autorit
+ av.: avenue
+avc: avec
+Ac: avec
+ avn:aviation
+ av.: avant
+ avr:aviateur
+ Avr:aviatrice
+ Avr:aviatrice recrue
+
+ BAC: baccalaurat,
+ Bac: brigade anticriminalit
+ bac:bactriologique
+ b..t.: bon  tirer
+ bt: btiment
+ bt: btiment
+ bcp: beaucoup
+ bd: boulevard
+ bdr:bombardier
+ Bdr:bombardire
+ bgn:brigadier-gnral
+ Bgn:brigadire-gnrale
+ bio:biologique
+ bon:bataillon
+ boul.: boulevard 
+ B.P.: bote postale
+ br:branche
+ BTP: Btiment et Travaux Publics
+ btr:batteur
+ Btr: batteuse
+ bur:bureau
+ BU: Bibliothque Universit
+ Bio: biologie
+ BUT: Bachelor universitaire de technologie
+ c.--d.: cest--dire
+ c.a.d.: cest--dire
+ cam:contre-amiral/contre-amirale
+ can: canadien
+ capc:capitaine de corvette
+ capf:capitaine de frgate
+ capt:capitaine
+ capv:capitaine de vaisseau
+ car:carabinier/carabinire
+ c.  s.ouc/s:cuillre  soupe
+ cas:caserne
+ cbt:combat
+ cc:  control continue
+ C.C.: Charges Comprises
+ CDI: Contrat  Dure Indtermine
+ cdmt : cordialement
+ cedex: Courrier dentreprise  distribution exceptionnelle
+ cf.: confer.
+ ch.: chambre
+ chi: chimie
+ ch-l.: chef-lieu
+ chauff: Chauffage
+ chap.: chapitre
+ cm: centimtre 
+ cmdt:commandant/commandante
+ cmdtA:commandant-adjoint/commandante-adjointe
+ cmdre:commodore
+ col:colonel/colonelle
+ coll:collectif
+ contr.: contraire
+ cornmsr:cornemuseur/cornemuseuse
+ C.P.I.: copie pour information[2]
+ cpdt: cependant
+ cpl:caporal/caporale
+ cplc:caporal-chef/caporale-chef
+ cqfd: ce quil fallait dmontrer
+ crs.: cours 
+ C.S.: Conditions Suffisantes
+ cvr:cavalier/cavalire
+ CM: cours magistral
+ co: comprhension oral
+ ce: comprhension crit
+ CVEC: Contribution de Vie tudiante et de Campus
+ CPGE: Classe prparatoire aux grandes cole
+ 
+
+ dc: donc
+ dir.: directeur
+ Dir.:direction[5]
+ dispo:disponible
+ doct.: docteur (dans un texte) 
+ dpdv: du point de vue
+ Dr : docteur 
+ ds: dans
+ dsl: dsol
+ dvlpt: dveloppement
+ dvt: devant
+ DUEF: Diplme Universitaire d'tudes Franaises
+ DAEU: Diplme daccs aux tudes universitaires
+ DE: Diplme dtat
+ DL: Diplme national
+ DU: Diplme Universitaire
+
+ d.: dition
+ lof:lve-officier/lve-officire
+ ens 1:enseigne 
+ env.: environ
+ etc.: et ctera
+ etcie: et compagnie
+ ts,Ets:tablissements
+ E.V.: en ville
+ ex : exemple
+ exo : exercice
+ exp: explication 
+ ECUE: Elments constitutifs dUnits dEnseignement
+ 
+
+ fact.: facture
+ fasc.: fascicule[2]
+ fd.: fdral
+ fm.: fminin
+ fvr.: fvrier
+ ff.: folios,feuillets
+ fg: faubourg
+ fig.: figure
+ fin.: finance
+ fl.: fleuve
+ fol.: folio, folios
+ fr.: franais (langue)
+ FRF: franc franais (ancienne monnaie franaise)
+ fus:fusilier/fusilire
+ FI: Formation initiale
+ FP: Formation professionnelle
+ FC: Formation continue
+
+ gd: grand(e)
+ gd :garde
+ gn:gnral/gnrale
+
+
+ h: heure (symbole)
+ hab.: habitant
+ hs: hors service
+ ht : hors taxes
+
+ id.: idem: de mme
+ i. e.: cest--dire
+ inf.: infrieur
+ inf: informatique
+ ing.: ingnieur 
+ IA: Intelligence Artificielle
+ IUT: Institut universitaire de technologie
+ 
+
+ j: jour
+ jf: jeune femme
+ jh : jeune homme
+ jms: jamais
+ J.O.: jeux olympiques
+ JO: Journal officiel
+
+ kg: kilogramme (symbole)
+ km: kilomtre (symbole) 
+ lcol:lieutenant-colonel/lieutenante-colonelle
+ L.D.: ligne directe
+ lgn:lieutenant-gnral/lieutenante-gnrale
+ loc: location
+ lt:lieutenant/lieutenante
+ ltv:lieutenant de vaisseau/lieutenante de vaisseau
+ LMD: Licence  Master  Doctorat
+ LP: Licence professionnelle
+
+
+ NA,N/Aoun/a: non applicable
+ N.D.: notre Dame
+ N.D.A.: note de lauteur
+ N.D.L.R.: note de la rdaction
+ N.D.T.: note du traducteur
+ N.D.W.: note du webmestre
+ N.P.A.I.: nhabite pas  ladresse indique
+ ns: nous
+ N.S.: notre Seigneur
+
+
+ M:mga(symbole)
+ M: mtre.
+ M.:Monsieur
+ M.A.:Moyen ge
+ maj:major/majore
+ mjoum--j: mise  jour
+ masc.: masculin[2]
+ mat:mathmatique 
+ matc:matelot-chef
+ Md:milliard
+ m.g.:matire grasse
+ mgn:major-gnral/majore-gnrale
+ min: minute (symbole), minuscule, minimum
+ Mlle:Mademoiselle[2]
+ Mlles: Mesdemoiselles
+ MM.: Messieurs[2][12][11]
+ Mme:Madame[2]
+ Mmes: Mesdames
+ ms.: manuscrit[2]
+ msg:message
+ mtn: maintenant
+ mus:musicien/musicienne
+
+ off:officier/officire
+ ops:oprations
+ opt: option
+
+
+ p.: page[2]
+ pb: problme
+ p.c.c.: pour copie conforme[2]
+ pcq,p.c.q.: parce que
+ PDG: prsident-directeur gnral
+ pdt: pendant
+ p.ex.: par exemple
+ p.j.ouP.J.: pice jointe[2]ou police judiciaire
+ pk,pq: pourquoi
+ pl.: place
+ plrs,pls: plusieurs
+ pos:position
+ p.p.: par procuration
+ pp.: pages[2][12],p.est recommand  sa place[6]
+ pr: pour
+ Pr : professeur (titre honorifique)[6]
+ P.-S.ouP.S.:post-scriptum
+ Pt: prsident
+ pt/pts: point / points
+ pte: porte 
+ PTI: pour ton information
+ pub: publicit
+ PV: procs-verbal
+ PAEH: Plan dAccompagnement de ltudiant en situation de Handicap
+ 
+
+ qcq: quelconque
+ qd: quand
+ QG:quartier gnral
+ qq: quelque
+ qqch: quelque chose
+ qqf,qqf.: quelquefois
+ qqn: quelquun
+ qqpt: quelque part
+ qsp: quantit suffisante pour ou quantit selon prescription
+ qt: quantit
+ qdm: quand mme
+
+
+ R.A.S.ouR..S.: rien  signaler
+ rd: rond
+ rgr:ranger
+ rdv: rendez-vous
+ RV: ralit virtuelle
+ REP: rseau d'ducation prioritaire
+ R.I.P.: repose en paix
+ RLMI: Rayez la mention inutile
+ RSVP: rpondez sil vous plat
+ RNCP: Rpertoire national des certifications professionnelles
+
+
+ St: saint[2][6]
+ S.A.: son Altesse
+ Sce:service
+ s.d.: sans date
+ SDF: sans domicile fixe 
+ sdt:soldat/soldate
+ sdt (recrue):soldat recrue/soldate recrue
+ S.E.: son Excellence
+ sec.: seconde
+ sect.: section[2]
+ SGDG: Sans Garantie Du Gouvernement
+ sgt:sergent/sergente
+ sig:signaleur/signaleuse
+ sing.: singulier[2]
+ s.l.: sans lieu (de publication)
+ slt: salut
+ S.M.: sa Majest
+ SMA:sous-ministre adjoint
+ S.M.I.R.: sa Majest impriale et royale
+ s/o: sans objet
+ s-off:sous-officier/sous-officire
+ spec: spcification
+ ss: sans, suis, sous
+ ssi: si et seulement si 
+ st: socit
+ stp: sil te plat
+ suiv.: suivant
+ sup.: suprieur
+ suppl.: supplment
+ svc:service
+ svp: sil vous plat
+
+
+ tl.: tlphone[2]
+ tlc.: tlcopieur
+ tgv: train  grande vitesse
+ tjs: toujours
+ tkt,tqt: t'inquite (pas)
+ tlm: tout le monde
+ To: tra-octet (1000 Go) 
+ TPS: taxe sur les produits et services
+ tq: tel que, telle que
+ ts: tous
+ TSA: tri spcial  larrive
+ T.S.V.P.: Tournez s'il vous plat
+ tt: tout
+ TTC: toutes taxes comprises[2]
+ TVA: taxe sur la valeur ajoute
+ tp: travail pratique
+ td: travail dirigs
+
+
+ UGA: Universit Grenoble Alpes
+ UE: Units dEnseignement
+ UFR: Unit de Formation et de Recherche
+
+
+
+
+ vam:vice-amiral/vice-amirale
+ vb.: verbe
+ vol.: volume
+ volt:voltigeur/voltigeuse
+ v/rf: votre rfrence
+ vs: vous
+ v .t.: verbe transitif
+ Vte: vicomte 
+ Vtesse: vicomtesse
+ Vve:veuve
+ VAE: Validation des acquis par lexprience
+
+
+
+
+
+ yc : y compris
+ Z.A.: zone dactivit
+ Z.A.C.: zone damnagement concert
+ Z.I.: zone industrielle
+ zup: zone  urbaniser en priorit
+
+
+
+
